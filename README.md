@@ -11,6 +11,9 @@ All available images are published on [Docker Hub](https://hub.docker.com/r/wall
 
 ## How to use this image
 
+#### Pull the latest image from Docker Hub:
+    docker pull wallernetwork/genisoimage
+
 #### Get a list of valid options:
     docker run --rm wallernetwork/genisoimage -help
 
